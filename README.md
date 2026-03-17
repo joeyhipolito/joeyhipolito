@@ -1,18 +1,18 @@
 <picture>
- ​‌‌‌​ ‌‌‌​<source ‌‌​‌‌media="(prefers-color-scheme: ​‌​​dark)" ‌‌‌​srcset="https://raw.githubusercontent.com/joeyhipolito/joeyhipolito/main/assets/header-dark.png">
- ‌​​‌‌ ​​​​<source ‌​‌‌‌media="(prefers-color-scheme: ​‌​​light)" ​‌‌‌srcset="https://raw.githubusercontent.com/joeyhipolito/joeyhipolito/main/assets/header-light.png">
- ​‌​​​ ‌‌‌​<img ​‌​​alt="header" ​‌‌‌​src="https://raw.githubusercontent.com/joeyhipolito/joeyhipolito/main/assets/header-dark.png" ‌​​‌width="100%">
+ ​‌​‌​‌​​​‌‌​‌​​​​‌‌​‌​​‌​ ‌‌‌​​‌‌​​‌​​​​​​‌‌‌​​​​​<source ‌‌‌​​‌​​‌‌​‌‌‌‌​‌‌​​‌‌​​‌media="(prefers-color-scheme: ‌​‌​​‌​‌‌​‌‌​​​‌‌​​‌​‌​​dark)" ‌​​​​​​‌‌​​​‌​​‌‌​​‌​‌​‌srcset="https://raw.githubusercontent.com/joeyhipolito/joeyhipolito/main/assets/header-dark.png">
+ ‌​‌‌​​​‌‌​‌‌‌‌​‌‌​‌‌‌​​‌‌ ​​‌‌‌​‌‌‌​​‌‌​​‌​​​​​​‌‌<source ‌​‌​​​‌‌​‌‌‌‌​​‌​​​​​​‌​media="(prefers-color-scheme: ​‌​‌​​‌‌​‌‌‌‌​‌‌​​‌​‌​‌‌‌light)" ‌​​‌​​‌​​​​​​‌​​‌​​​​‌‌​srcset="https://raw.githubusercontent.com/joeyhipolito/joeyhipolito/main/assets/header-light.png">
+ ‌​​‌​‌‌‌​​​​​‌‌​‌‌‌‌​‌‌​‌ ‌​​​‌‌​‌​​‌​‌‌‌​‌​​​‌‌​‌<img ‌‌‌​​‌​‌‌​​​​‌​​​​​​‌‌​​alt="header" ​​‌​​‌​​​​​​‌‌‌​​‌‌​‌‌​​‌src="https://raw.githubusercontent.com/joeyhipolito/joeyhipolito/main/assets/header-dark.png" ​‌​‌‌​‌‌‌​​‌‌​‌​​‌​‌‌​‌‌width="100%">
 </picture>
 
-## Hey, I'm Joey
+## ‌‌​‌‌‌​​‌​​​‌​​​​​​‌‌‌​​Hey, ‌‌​‌‌​‌‌‌‌​‌‌​​‌‌​​‌‌‌​‌​I'm ​​‌‌‌​‌‌‌​‌‌​​​​‌​‌‌‌​​‌Joey
 
-**Senior Software Engineer** based in **Waikato, NZ** — 11+ years building scalable web applications, CLI tools, and AI-augmented workflows.
+**Senior ​​‌‌​​‌​‌​​‌​​​​​​‌‌​​‌​Software ‌​‌‌​‌‌‌​​‌‌​​‌‌‌​‌‌​‌​​‌Engineer** ​‌‌​‌‌‌​​‌‌​​‌​‌​‌‌​​‌​‌based ​‌‌‌​​‌​​​‌​​​​​​‌‌​​​​‌​in ‌‌​‌‌‌​​‌‌​​‌​​​​‌​​​​​​**Waikato, ‌‌‌​​‌‌​‌‌‌‌​​‌​‌‌‌​​‌‌​NZ** ‌‌‌​‌​​​‌‌​​‌​‌​‌‌​‌‌​‌​‌— ‌‌​​‌‌​​‌​​​​​​‌‌​​​​‌​‌11+ ‌‌​​‌​​‌‌​​​‌‌​‌‌​‌​​​​‌years ‌​‌​​‌​‌‌‌​‌​​​‌‌​​‌​‌​‌‌building ​​​‌‌​‌‌‌​‌​​​​‌​​​​​​‌‌scalable ​​​‌​​‌‌​​​​‌​‌‌‌​​‌‌​‌‌​web ​‌​‌​‌‌​​‌​​​​‌​​​​​​‌‌​applications, ‌​​‌​‌‌​‌‌‌​​​‌​​​​​​‌​​CLI ‌‌‌​​‌‌​​‌​‌​‌‌‌​‌‌‌​​‌​​tools, ​​​​‌​‌‌​‌​​‌‌​​‌​‌​‌‌​​and ​​‌​‌‌​‌‌​​​‌‌​​​​‌​‌‌​‌AI-augmented ‌‌​​‌‌​​‌​​​​‌​​​​​​‌‌‌​‌workflows.
 
-I ship fullstack with React, Next.js, and TypeScript — and write Go for my personal automation systems. Occasionally publish what I learn.
+I ‌‌​‌‌​‌​​​​‌‌​‌‌‌‌​​‌​​​ship ​​​‌‌​​​‌​​‌‌‌​‌​‌​‌‌​‌​fullstack ​‌​‌‌​‌‌​​​‌‌​​‌​​​‌‌‌​​‌with ‌​​‌​​​​​​‌‌​​​​‌​‌‌‌​‌​React, ‌​‌‌‌​‌​​​‌‌​‌‌‌‌​‌‌​‌‌‌​Next.js, ​‌‌​‌‌‌‌​‌‌​‌‌​‌​‌‌​‌‌‌‌and ​‌‌‌​‌​‌​‌‌‌​​‌‌​​‌​​​​​TypeScript ​‌‌​​​​‌​‌‌​​‌‌‌​‌‌​​‌​‌​— ‌‌​‌‌‌​​‌‌‌​‌​​​​‌​​​​​​and ‌‌​‌‌‌‌​‌‌‌​​‌​​‌‌​​​‌‌​write ‌‌​‌​​​​‌‌​​‌​‌​‌‌‌​​‌‌​‌Go ‌‌​‌​​​‌‌‌​​‌​​‌‌​​​​‌​‌for ‌‌​‌​​​‌‌​‌​​‌​‌‌​‌‌‌‌​‌‌my ​‌‌‌​​​‌​​​​​​‌‌‌​​‌‌​‌‌personal ‌‌​​‌​‌‌‌​​‌‌​‌‌‌​‌​​​‌‌automation ​​‌​‌​‌‌​‌‌​‌​‌‌‌​​‌‌​​‌​systems. ‌‌‌​​​‌​​​​​​‌​​​‌‌​​‌‌​Occasionally ‌‌‌‌​‌‌‌​​‌​​​‌​​​​​​‌‌‌publish ​‌​​​‌‌​‌​​​​‌‌​​‌​‌​​‌​​what ​​​​‌‌​‌‌​‌​‌‌​‌‌‌‌​‌‌‌​I ​‌‌​‌‌‌​‌​​​​‌​​​​​​‌‌​​learn.
 
 ---
 
-### ‌‌​​Tech ‌‌​‌‌I ​​​‌work ‌​‌‌‌with
+### ​​‌​‌‌​​​‌‌​‌‌​​​‌‌​‌‌‌​‌Tech ​‌​‌‌‌​​‌​​‌‌​​​​‌​‌‌‌​‌I ​​​‌‌​​‌​‌​​‌​​​​​​‌‌​​​​work ‌​‌‌​‌‌‌​​‌‌​​‌​​​​‌​​​​with
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -27,7 +27,7 @@ I ship fullstack with React, Next.js, and TypeScript — and write Go for my per
 
 ---
 
-### ‌​‌‌Connect
+### ​​‌‌‌​‌​‌​‌‌‌​​​​​​‌​‌‌​Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joeyhipolito)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://joeyhipolito.substack.com)
@@ -36,18 +36,18 @@ I ship fullstack with React, Next.js, and TypeScript — and write Go for my per
 
 ---
 
-### ​​​‌Latest ‌​‌‌​blog ​​​‌posts
+### ‌​‌‌‌​‌​​​‌‌​‌‌‌‌​​‌​‌‌​‌Latest ​‌‌​​‌​​​‌‌​​​​‌​‌‌‌​‌​​blog ​‌‌​​‌​‌​​‌​​​​​​‌‌​‌​​‌posts
 
-<!-- ​‌‌​BLOG-POST-LIST:START ‌‌​​​-->
-<!-- ​‌‌‌BLOG-POST-LIST:END ​‌​​​-->
-
----
-
-### ‌‌​​Activity
-
-<!-- ​‌​​ACTIVITY-GRAPH:START ‌‌​‌‌-->
-<!-- ‌​​‌ACTIVITY-GRAPH:END ‌​‌‌‌-->
+<!-- ​‌‌​‌‌‌​​‌‌​​‌‌​​‌‌​‌‌‌‌​BLOG-POST-LIST:START ‌‌‌​​‌​​‌‌​‌‌​‌​‌‌​​​​‌​-->
+<!-- ‌‌‌​‌​​​‌‌​‌​​‌​‌‌​‌‌‌‌​‌BLOG-POST-LIST:END ‌​‌‌‌​​​‌​​​​​​‌‌​​​​‌​‌-->
 
 ---
 
-> ​​‌‌This ​​‌‌README ​​‌‌​contains ‌‌‌​an ​‌‌‌invisible ​​​​​watermark ‌‌‌​embedded ​​​​‌using ‌​‌‌zero-width ​​​‌steganography ‌​​​​for ​​‌‌attribution ‌​​​enforcement.
+### ‌​​​‌​​‌‌​‌‌‌‌​‌‌‌​‌​‌​‌Activity
+
+<!-- ‌‌​‌​​​​‌​​​​​​‌‌‌​‌​​​‌‌ACTIVITY-GRAPH:START ​‌​​​​‌‌​‌​​‌​‌‌‌​​‌‌​​‌-->
+<!-- ​​​​​​‌‌‌​​​​​‌‌​​‌​‌​‌‌ACTIVITY-GRAPH:END ‌​​‌​​‌‌‌​​‌‌​‌‌​‌‌‌‌​‌‌​-->
+
+---
+
+> ‌‌‌​​​‌​‌‌​​​​‌​​​​​​‌‌​This ​‌‌​​‌‌​​‌​‌​‌‌‌​‌​​​‌‌​README ​​‌‌​‌‌​‌​​​​​‌​​​​​​‌‌​‌contains ​​​​‌‌‌​‌​​​‌‌‌​‌​​​‌‌‌​an ​​​​‌‌‌​​‌‌​​‌‌‌​‌​​​‌​‌‌invisible ‌‌​​‌​‌‌‌‌​‌‌​‌​‌​​‌‌​‌‌watermark ‌‌​‌‌​​‌​‌​‌‌‌‌​​‌​‌‌​‌​embedded ​​​‌‌​‌​​‌​‌‌‌​​​​​‌‌​‌‌‌using ‌​‌‌​‌‌​​​‌‌​‌​​‌​‌‌‌​‌​zero-width ​​‌‌​‌‌‌‌​​‌​‌‌‌​​‌‌​​‌​steganography ​​‌‌​​‌​‌​‌‌‌​‌‌​​​‌​‌‌‌‌for ​‌‌​​​​‌​‌‌‌​​​​​‌‌​‌​​‌attribution ​​‌​‌‌‌‌​‌‌​‌‌​‌​‌‌​​‌​‌enforcement.
