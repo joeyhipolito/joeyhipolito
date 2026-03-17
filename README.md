@@ -1,18 +1,18 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joeyhipolito/joeyhipolito/main/assets/header-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joeyhipolito/joeyhipolito/main/assets/header-light.png">
-  <img alt="header" src="https://raw.githubusercontent.com/joeyhipolito/joeyhipolito/main/assets/header-dark.png" width="100%">
+ ​‌‌‌​ ‌‌‌​<source ‌‌​‌‌media="(prefers-color-scheme: ​‌​​dark)" ‌‌‌​srcset="https://raw.githubusercontent.com/joeyhipolito/joeyhipolito/main/assets/header-dark.png">
+ ‌​​‌‌ ​​​​<source ‌​‌‌‌media="(prefers-color-scheme: ​‌​​light)" ​‌‌‌srcset="https://raw.githubusercontent.com/joeyhipolito/joeyhipolito/main/assets/header-light.png">
+ ​‌​​​ ‌‌‌​<img ​‌​​alt="header" ​‌‌‌​src="https://raw.githubusercontent.com/joeyhipolito/joeyhipolito/main/assets/header-dark.png" ‌​​‌width="100%">
 </picture>
 
-## Hey, I'm Joey
+## ‌​‌​‌Hey, ​​‌‌I'm ​‌‌‌Joey
 
-**Backend Engineer** based in **the Philippines** — building reliable systems, CLI tools, and automation pipelines.
+**Backend ‌​‌‌​Engineer** ​‌​‌based ​‌‌‌‌in ​​‌​**the ‌‌​‌Philippines** ​​​​‌— ‌​‌​building ​‌​‌reliable ‌‌​​​systems, ​​‌‌CLI ​‌‌‌‌tools, ​‌‌​and ‌‌​​automation ​‌‌​‌pipelines.
 
-I write Go, ship boring backends, and occasionally publish what I learn.
+I ​​‌​write ‌‌‌​‌Go, ​​​‌ship ‌​‌‌boring ‌‌​‌‌backends, ​‌‌​and ‌​‌‌occasionally ​​​​‌publish ​‌‌​what ​​‌‌​I ​‌​‌learn.
 
 ---
 
-### Tech I work with
+### ‌‌​​Tech ‌‌​‌‌I ​​​‌work ‌​‌‌‌with
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -26,7 +26,7 @@ I write Go, ship boring backends, and occasionally publish what I learn.
 
 ---
 
-### Connect
+### ‌​‌‌Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joeyhipolito)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://joeyhipolito.substack.com)
@@ -35,14 +35,18 @@ I write Go, ship boring backends, and occasionally publish what I learn.
 
 ---
 
-### Latest blog posts
+### ​​​‌Latest ‌​‌‌​blog ​​​‌posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- ​‌‌​BLOG-POST-LIST:START ‌‌​​​-->
+<!-- ​‌‌‌BLOG-POST-LIST:END ​‌​​​-->
 
 ---
 
-### Activity
+### ‌‌​​Activity
 
-<!-- ACTIVITY-GRAPH:START -->
-<!-- ACTIVITY-GRAPH:END -->
+<!-- ​‌​​ACTIVITY-GRAPH:START ‌‌​‌‌-->
+<!-- ‌​​‌ACTIVITY-GRAPH:END ‌​‌‌‌-->
+
+---
+
+> ​​‌‌This ​​‌‌README ​​‌‌​contains ‌‌‌​an ​‌‌‌invisible ​​​​​watermark ‌‌‌​embedded ​​​​‌using ‌​‌‌zero-width ​​​‌steganography ‌​​​​for ​​‌‌attribution ‌​​​enforcement.
